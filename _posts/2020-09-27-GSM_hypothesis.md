@@ -11,6 +11,7 @@ Hence the Virus Pandemic and its spread needs to be understood in the broader se
 2. The changing genome sequence of this Virus indicates that the strong probability of Virus being man-made and hence contrived in the Wuhan Institute of Virology(have to find source). The factual pointers in this directions can be related to the eclipsing of the Virologist Dr.Shi by the Chinese Establishment.
 3. It is the fundamental job of the WHO to study the nature and origin of this so-called Virus and al suggest ways to the Global community of Humans and animals on the measures to counter it and its spread. In the absence of the WHO failing in its duties, the humans across the Globe are now facing this pandemic from the past six months, without a clue of an instant medicinal solution
 4. In this ghastly background of the enlarging and deepening tentacles of this pandemic, it is pertinent to mention the following points :
+ol ol { list-style-type: lower-alpha; }
     a. The almost certain fact that the Virus originated from WIV indicates that Dr. Shi was very involved in the contrivation  of this particle. Dr.Shi is not available to us to reveal the exact intention and nature of this particle.
     b. There is every possibility that the creation of this Virus was part of a Biological Warfare program charted out by CPC/PLA with the intention of erasing a ‘target population’, when let loose. The ways and means of ‘letting loose’ a load of this Virus is debatable.
     c. The WIV would have also thought of a vaccine, for this virus, as the creator of this parasite.
