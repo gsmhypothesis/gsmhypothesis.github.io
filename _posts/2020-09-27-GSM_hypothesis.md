@@ -5,7 +5,7 @@ title: The Ganesh-Shambavi-Murali(GSM) Hypothesis
 ## Introduction
 
 <p style="text-align: justify"> As the human race battles for a crushing solution to end or atleast mutate the SARS-Covid 2 Virus, the pandemic rages on, infecting people across the Globe, at its sweet will, defying medical theories, mathematical models, Epidemiologists’ predictions and Community Medicine Specialists’ hypothesis.
-Hence the Virus Pandemic and its spread needs to be understood in the broader sense, viz.a.viz, its origin and its growth and spread, as detailed under. I changed the maximum width.
+Hence the Virus Pandemic and its spread needs to be understood in the broader sense, viz.a.viz, its origin and its growth and spread, as detailed under. </p>
 
 1. It is now more or less clear that the Virus has had its origin at the Wuhan Institute of Virology, China.(Source for Virus origin in Wuhan – “Detection of Covid-19 in Children in Early January 2020 in Wuhan, China”) There need not be much more discussion on this point since other theories like the spread of this Virus from the nearby ‘Bat Hills’ of Wuhan and its proximity to Villages are not valid for the simple reason that ‘Bat Havens’ are found everywhere on the Globe, and as seen, there was no such trace of this Virus originating from the other such Bat ‘Hot Spots’. Hence the theory floated by the Chinese that the origin of this parasite is from the Animal Market of Wuhan and not Wuhan is untenable.
 2. The changing genome sequence of this Virus indicates that the strong probability of Virus being man-made and hence contrived in the Wuhan Institute of Virology(have to find source). The factual pointers in this directions can be related to the eclipsing of the Virologist Dr.Shi by the Chinese Establishment.
@@ -65,4 +65,3 @@ Murali:
 8. If that is not possible, wearing masks and other protective gears to minimize external droplets from coming into contact with our mouth and to limit talking while in a crowded environment will help a long way. 
 9. Studies show that the half lives of SARS-CoV-2 and SARS-CoV-1 were similar in aerosols with the median estimate being 1.1-1.2 hours. Therefore avoiding crowded environments would be highly encouraged or to atleast keep time spent on  crowded environment to a bare minimum.
 
-</p>
