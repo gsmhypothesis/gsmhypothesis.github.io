@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The GSM Hypothesis
+title: The Ganesh-Shambavi-Murali(GSM) Hypothesis
 ---
 ## Introduction
 
