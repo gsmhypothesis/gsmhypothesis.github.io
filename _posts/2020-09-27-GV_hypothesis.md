@@ -64,3 +64,63 @@ practising their faith had to pay tribute in kind or with Corvee labour.</p>
 religion and traditions which can be strongly linked to a kind of <em>ancient Hinduist</em> practice.
 Among the various theories floating about the history and racial origins of the Kodavas,
 the theory of descent from Alexander’s battalion is so far the strongest.</p>
+
+<p style="text-align: justify"><strong>Religious, cultural practices and traditions of the Kodavas</strong> : The Kodavas are a hunting,
+mountain seeking martial race with nomadic antecedents. The Kodava traditional music
+includes drums, trumphets, pipes, singing, poetry and clapping. Their tradition also
+includes folk-lores, folk-dances and folk-songs. From earliest days, the kodavas are
+known to worship Nature and Ancestors. Historically, the Kodavas are worshippers of
+Sun. Apparently this trait of worshipping Sun and nature has been handed over since
+ancient days. Their worshipping place ‘Kaimada’ which is linked to ceremonial rituals in
+honour of ancestors, the positioning of the ‘Kaimada’ within the sight of the Sun and
+Moon, displays ancient vedic tinge . The ‘Kaimada’ and the ‘Ain Mane’ were built facing
+the east, towards the rising Sun. The erection of a bamboo pole- ‘Kodimara’ in front of
+the ‘Kaimada’ was meant to indicate the nature of the occasion. Their worshipping the
+river Kaveri as their Goddess, with special prayers offered on ‘Kaveri Sankramana’ day in
+clearly indicates Aryan origins, in concept. While facing the rising sun in the morning, in
+salutation, an auspicious rite is enacted involving rice and milk. The Kodavas offer fowls
+to the Spirit ‘Kuliya’ inside the forests through ‘Devara kaadu- an act of appeasing the
+nature through the ancestors. The propitiation of ancestors once a year through
+‘Kaarana Bharani’. The ‘Nellakki Bolucha’ meaning the lighting of the ceremonial oil
+lamp- both in the morning and evening is an age-old practice of ancestor worship. The
+Kodavas observe three most important festivals- Kailpodh or Kailmuhurtha (September),
+Kaveri Sankramana (October) and Puthri or Huthri (November-December). The kailpodh
+is a festival indicating the end of ploughing and transplanting sessions of the paddy crop.
+The Huthri festival heralds the ripening of the paddy crop. The utterance “Poly Poly
+Deva” during this festival is considered as deeply ancient in origins.</p>
+
+<p style="text-align: justify"><strong>Theory of Kodavas’ descent from Alexander’s battalion negated</strong>: For a racial ethnic
+group to separate itself from a war battalion and migrate out compactly as a
+reproducing group, the descent from Alexander’s battalion theory is highly flawed. A
+detached group from a multi-racial battalion to later re-evolve itself as a compact ethnic
+group displaying ancient hinduist practices becomes a remote possibility. Such ethnised
+group should have identical ethnic elements with familial similarity to survive and
+flourish as a uniform and identical intra-ethnic group. In the absence of identifying the
+methodology of absorption of the strong ethnic and cultural identity as exhibited by the
+Kodavas, the ‘Alexander Battalion’ theory fails. Empirically, the possibility of evolvement
+of an ethnic group from a battalion consisting of mixed-race soldiers grouping together
+as a clan, and stretching backwards and imbibing ancient form of vedic practices and
+unique cultural symptoms defies the concept of group survival. A grown-up
+heterogeneous group of soldiers, with their kin, cannot all of a sudden imbibe alien preancient practices. Only an exclusive pre-existing ethnic group can absorb and practise
+<em>stiff</em> ancient version of Hinduist/vedic ideals, passing it down the generations.</p>
+
+<p style="text-align: justify">The genetic inquest on the kalash tribe- regarded as Alexander’s descendants all along,
+has too negated the hazy Alexander descent hypothesis weaved around the Kalash.</p>
+
+<p style="text-align: justify">The strong common vestiges of ancient hindu/ancient vedic customs and practices
+retained by the Kodavas and the Kalash, sharply indicate towards a probable original mix
+and commonality of these two identical racial groups. The common tinge of retained
+exclusive ancient hindu/ancient vedic practices bind the kodavas and Kalash into the
+same group back though history. The striking cultural similarities between the Kodavas
+and the Kalash gives rise to a strong hypothesis that these two racially identical and
+unique ethnic groups are of the same parent stock and originated from the same racial
+group.</p>
+
+<p style="text-align: justify">The present physical distancing of the Kodavas and the Kalash may have its reason
+somewhere deep down inside history pages. One strong possibility being that their
+parent ethnic group may have been persecuted during the islamic invasion of the sub-
+continent- forcing the group to split and migrate, one upwards into the mountain terrain
+of Kybher, and the other down south into the safe mountain terrains of the western
+ghats. Another possibility is the telescopic involvement of the Kodavas in tribal
+migrations, along with other tribes, and branching out later, retaining their unique
+identity.</p>
