@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Figure 1]({{ site.baseurl }}/images/ganesh_2.jpg)
+
 Ganesh Venkataraman is a keen student of History, particularly ancient Indian history. He has been
 pursuing the mystery of the origins of the Kodavas for the past decade, with passion. Ganesh
 Venkataraman has authored three Books- ‘The Madhigattan Encounter’ a historical fictional work
