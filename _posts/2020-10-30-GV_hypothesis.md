@@ -118,6 +118,9 @@ and the Kalash gives rise to a strong hypothesis that these two racially identic
 unique ethnic groups are of the same parent stock and originated from the same racial
 group.</p>
 
+
+![Figure 2]({{ site.baseurl }}/images/post_1_fig_2.jpg)
+
 <p style="text-align: justify">The present physical distancing of the Kodavas and the Kalash may have its reason
 somewhere deep down inside history pages. One strong possibility being that their
 parent ethnic group may have been persecuted during the islamic invasion of the sub-
