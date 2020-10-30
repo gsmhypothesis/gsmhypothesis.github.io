@@ -52,3 +52,15 @@ clustered with central/ south Asian populations. Interestingly, another study fo
 evidence of their descent from soldiers of Alexander. A further study revealed the Kalash
 are part of the South Asian genetic continuum with no Macedonian ethnic admixture
 albeit shifted towards the Iranian people.</p>
+
+<p style="text-align: justify">Historically, the Kalash are stated to be an indigenous people of Asia, with their
+ancestors migrating to Afghanistan from a distant place in South Asia, which the kalash
+call ‘Tsiyam’ in their folk songs and epics. Kalashi traditions record severe persecution
+and massacres in the hands of Rais dynasty’s Shah Nader Rais between 1720 to 1747,
+after which the Kalash had to flee the Chitral valley, and those who remained still
+practising their faith had to pay tribute in kind or with Corvee labour.</p>
+
+<p style="text-align: justify">The Kodavas are an exclusive ethnic mountain people, practising an exclusive form of
+religion and traditions which can be strongly linked to a kind of <em>ancient Hinduist practice</em>.
+Among the various theories floating about the history and racial origins of the Kodavas,
+the theory of descent from Alexander’s battalion is so far the strongest.</p>
