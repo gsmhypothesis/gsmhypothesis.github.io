@@ -61,6 +61,6 @@ after which the Kalash had to flee the Chitral valley, and those who remained st
 practising their faith had to pay tribute in kind or with Corvee labour.</p>
 
 <p style="text-align: justify">The Kodavas are an exclusive ethnic mountain people, practising an exclusive form of
-religion and traditions which can be strongly linked to a kind of <em>ancient Hinduist practice</em>.
+religion and traditions which can be strongly linked to a kind of <em>ancient Hinduist</em> practice.
 Among the various theories floating about the history and racial origins of the Kodavas,
 the theory of descent from Alexander’s battalion is so far the strongest.</p>
