@@ -1,8 +1,7 @@
 ---
 layout: post
-title: The Ganesh-Shambavi-Murali(GSM) Hypothesis
+title: The Ancient Origins of the Kodavas: The Kodavas-Kalash Connection: GV Hypothesis
 ---
-## Introduction
 
 
 <p style="text-align: justify">The origins, history and ancestry of Kodavas- a mountain tribe in the present state of
