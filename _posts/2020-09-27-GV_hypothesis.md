@@ -45,7 +45,7 @@ flute-like instruments (high-pitch), singing, poetry, clapping, and also the rhy
 playing of drums- Wac ( a small hourglass drum) and Dau ( a large drum played with the
 smaller drum Wac).</p>
 
-<p style="text-align: justify">**Genetic Origins of the Kalash** : West Eurasian origins have been genetically detected in a
+<p style="text-align: justify"><strong>Genetic Origins of the Kalash</strong> : West Eurasian origins have been genetically detected in a
 study on the kalash. The Kalash are also detected to have distinct aboriginal links with
 only minor contributions from outside people. Another study showed them to be
 clustered with central/ south Asian populations. Interestingly, another study found no
