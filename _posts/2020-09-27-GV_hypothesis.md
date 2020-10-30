@@ -124,3 +124,8 @@ of Kybher, and the other down south into the safe mountain terrains of the weste
 ghats. Another possibility is the telescopic involvement of the Kodavas in tribal
 migrations, along with other tribes, and branching out later, retaining their unique
 identity.</p>
+
+#### References and Sources:
+1. The Kalash people, Wikipedia.
+2. A History of Kodagu (From the earliest times to 16 th century A.D) by Prof. P.S.Appaiah.
+3. A Study of The Origins of Coorgs by Lt. Col. K.C. Ponnappa (Retd.)
