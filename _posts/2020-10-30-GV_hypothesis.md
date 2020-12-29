@@ -22,10 +22,10 @@ title: The GSM Hypothesis
 <p style="text-align: justify">In this ghastly background of the enlarging and deepening tentacles of this pandemic, it is pertinent to mention the following speculative points : </p>
 
 <ul>
-  <li>The almost certain fact that the Virus originated from WIV indicates that Dr. Shi was very involved in the contrivation  of this particle. Dr.Shi is not available to us to reveal the exact intention and nature of this particle.</li>
-  <li>There is every possibility that the creation of this Virus was part of a Biological Warfare program charted out by CPC/PLA with the intention of erasing a ‘target population’, when let loose. The ways and means of ‘letting loose’ a load of this Virus is debatable.</li>
-  <li>The WIV would have also thought of a vaccine, for this virus, as the creator of this parasite.</l>
-  <li>The WIV would have also thought of control measures of this Virus, in the event of an unlikely outbreak of this Virus, from its Lab.</li>
+  <li><p>The almost certain fact that the Virus originated from WIV indicates that Dr. Shi was very involved in the contrivation  of this particle. Dr.Shi is not available to us to reveal the exact intention and nature of this particle.</p></li>
+  <li><p>There is every possibility that the creation of this Virus was part of a Biological Warfare program charted out by CPC/PLA with the intention of erasing a ‘target population’, when let loose. The ways and means of ‘letting loose’ a load of this Virus is debatable.</p></li>
+  <li><p>The WIV would have also thought of a vaccine, for this virus, as the creator of this parasite.</p></l>
+  <li><p>The WIV would have also thought of control measures of this Virus, in the event of an unlikely outbreak of this Virus, from its Lab.</p></li>
   
   
 </ul>
