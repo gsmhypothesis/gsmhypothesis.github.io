@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Ancient Origins of the Kodavas
+title: The GSM Hypothesis
 ---
 
-### The Kodavas-Kalash Connection: GV Hypothesis
+### The 2019 Pandemic - GSM Hypothesis
 
-<p style="text-align: justify">The origins, history and ancestry of Kodavas- a mountain tribe in the present state of
-Karnataka, South India, has been an intriguing puzzle, with various theories and
-hypothesis floating.</p>
+<p style="text-align: justify">As the human race battles for a crushing solution to end the SARS-Covid 2 Virus (or atleast mutate it for the greater good), the pandemic rages on. Infecting people across the Globe by defying medical theories, mathematical models, epidemiologists’ predictions and community medicine specialists’ hypothesis, the virus continues to prevent our lives from returning to the norm. </p>
+
+<p style="text-align: justify">Hence the Virus Pandemic and its spread needs to be understood in the broader sense, viz.a.viz, its origin and its growth and spread.</p>
 
 <p style="text-align: justify">There is a tribe called Kalash in the Chitral region of Kybher-pakhtunkhwa province of
 Pakistan. They are from the dardic family of Indo-Aryans. The Kalash are considered to
