@@ -110,12 +110,19 @@ Thus the ‘mantra’ of effectively closing the mouth while in public places is
  
 ##### Equations would appear here
 
+#### Ramifications of the findings:
+
 <p style="text-align: justify">As per the theory advanced above, it is to be concluded that the entry of a Covid particle into a human physiological system through the mouth occurs with a minimum chance of 30% and a maximum chance of 90%. Conversely, it can be held that if a mouth is shut, the chances of preventing a Covid particle entry lies anywhere between 30% and 90%.</p>
 
 <p style="text-align: justify">Most quantum of the transmission of this novel Covid Virus has been found happening in public places, places with crowding people, and congested unventilated places. As per the discussion and findings made above, it can be safely concluded that if a person moving around in a public place or a place with crowding people, keeps his mouth closed as much as possible, the chances of his avoiding getting infected by a Covid cloud ranges between atleast 30% and upto 90%, depending upon for how long the person is able to close his mouth.</p>  
 
-#### Ramifications of the findings:
-#### References and Sources:
-1. The Kalash people, Wikipedia.
-2. A History of Kodagu (From the earliest times to 16 th century A.D) by Prof. P.S.Appaiah.
-3. A Study of The Origins of Coorgs by Lt. Col. K.C. Ponnappa (Retd.)
+<ul>
+  <li><p style="text-align: justify">Imagine a person who has shut himself from the outside world, by hiding inside, say, a glass cubicle. Logically, this person has almost zero chance of getting infected by a Covid Virus.</p></li>
+  <li><p style="text-align: justify">But there are instances of a person who sparsely  moves into a open space or a public crowd confirmed to have contracted this Virus.</p></li>
+  <li><p style="text-align: justify">By the term ‘Contracting the Virus’, we mean intaking a substantial load of the Covid particle.</p></li>
+  <li><p style="text-align: justify">There are also instances of a person who moves around frequently in a public place, but  has escaped contracting of a substantial ‘Load’.  </p></li>
+  <li><p style="text-align: justify">As known, Covid particles are micronic lifeless particles, which require nature’s laws of motion to make them access a person’s physiological system, in substantial numbers, and though the outer periphery (face in this case) of the person, so as to enter the physiological system of such person.</p></li>
+  <li><p style="text-align: justify">In a public place, take the case of a cloud of hi-speed Covid particles, zooming out of a sneezed mouth, directly being intercepted by the face of an un-infected person. The cloud will splash the skin surface of the face of the potential victim first, with a few of the parasites managing to enter the system, through the eyes, nose and throat. But logically, the bulk of the cloud remains splashed on the remaining facial surface of the victim. Now, there is bound to be sweat on the face-skin of the victim, and even otherwise, the face has a sticky surface, giving a high probability of the covid cloud sticking on to the surface of the victim’s face.  In such a situation, logically, a substantial portion of the splashed Covid cloud will stick onto the skin surface of the face, and will hold on for a period of time onto face surface of the victim. During this interregnum, there is every chance of the sticking covid particles to slither into the system through the eyes, nose, or the mouth. </p></li>
+  <li><p style="text-align: justify">The above arguments advanced will probably explain as how a person gets infected by a substantial covid load, inspite of maintaining Social distancing and wearing mask, while moving around in public places, or the case of a person rarely moving out, but still getting infected, unawares. </p></li>
+  <li><p style="text-align: justify">One effective way of preventing this type of spread would be to position sodium bicarbonate solution outlets in public places, so that a person moving around will skillfully wash his/her face, frequently.</p></li>
+</ul>
