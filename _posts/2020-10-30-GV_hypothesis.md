@@ -26,8 +26,6 @@ title: The GSM Hypothesis
   <li><p>There is every possibility that the creation of this Virus was part of a Biological Warfare program charted out by CPC/PLA with the intention of erasing a ‘target population’, when let loose. The ways and means of ‘letting loose’ a load of this Virus is debatable.</p></li>
   <li><p>The WIV would have also thought of a vaccine, for this virus, as the creator of this parasite.</p></l>
   <li><p>The WIV would have also thought of control measures of this Virus, in the event of an unlikely outbreak of this Virus, from its Lab.</p></li>
-  
-  
 </ul>
 
 <p style="text-align: justify">It is the fundamental job of the WHO to study the nature and origin of this so-called Virus and al suggest ways to the Global community of Humans and animals on the measures to counter it and its spread. In the absence of the WHO failing in its duties, the humans across the Globe are now facing this pandemic from the past six months, without a clue of an instant medicinal solution. </p>
