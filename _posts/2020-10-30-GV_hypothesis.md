@@ -86,18 +86,35 @@ title: The GSM Hypothesis
 <p style="text-align: justify">By the above analysis, and by appealing to the theory of probability, under the assumption that the probability of entry through eyes is almost surely zero, though may not be actually zero, giving a small margin for entry through Eyes by rubbing of a carrier finger on the eyes. Which leaves the entire balance probability of occurrence of transmission through Nose and mouth, which combinedly tend to be almost surely One, if not One. Between  Nose and Mouth, as argued out above, the probability of transmission through Mouth is much higher than the probability of  transmission through Nose, which arrives at the probability of the transmission through Mouth a more sure event than compared to the probability of transfer through Nose which is a relatively less surer event. 
 Thus the ‘mantra’ of effectively closing the mouth while in public places is likely to comprehensively limit the entry of the Covid particle into a Human’s physiological system. </p>
 
+#### Further Issues needing attention in the matter of a Covid particle entering into a human physiological system 
 
-![Figure 2]({{ site.baseurl }}/images/post_1_fig_2.jpg)
+<p style="text-align: justify">If it can be presumed that Slurping is the main cause behind a Covid entry into the human body, then this study will be helpful in analyzing such a situation. The intrinsic variance in the Slurping capacity of each of the three  organs, viz.a.viz the Eyes, Nose and the Mouth becomes the key issue.</p> 
 
-<p style="text-align: justify">The present physical distancing of the Kodavas and the Kalash may have its reason
-somewhere deep down inside history pages. One strong possibility being that their
-parent ethnic group may have been persecuted during the islamic invasion of the sub-
-continent- forcing the group to split and migrate, one upwards into the mountain terrain
-of Kybher, and the other down south into the safe mountain terrains of the western
-ghats. Another possibility is the telescopic involvement of the Kodavas in tribal
-migrations, along with other tribes, and branching out later, retaining their unique
-identity.</p>
+<p style="text-align: justify">With intermittent flapping/shuttering of the Eye-Lids acting as a natural barrier, a relatively lower probability of Covid entry through the Eyes is a strong possibility. With the potential restriction offered by the Nose, by way of making it difficult to a Covid particle in terms of upward motion defying gravity, as also the alternate process of inhalation/exhalation which in a sense disturbs the air-borne stability of the floating Covid particle, the probability of covid entry through the Nose is equally rerstricted, and hence can be said minimal. </p>
 
+<p style="text-align: justify">In comparison, the mouth hardly offers resistance to a Covid entry, thereby making the Slurp effective and successful. A visualization of a situation wherein a swarm of Covid particles accost a human face may be helpful in unraveling the possible consequences: (1) a portion of the swarm hits the Eyes- then there is every likelihood that 50% of this portion gets slurped and the remaining 50% may slide down, due to flapping of the Eyes. The sliding 50% may slowly fall on the ground or slide downwards to around the mouth, even avoiding Nose, because of downward mobility and gravity pull. (2) a portion of the swarm hits the Nose area, but unlikely slurp to happen- because of inhale/exhale sequence exhibited by the Nostrils and also the deterring upward motion required, to induce such a slurp, though the mucous membrane can facilitate a slurp. (3) a portion of the swarm hitting the face surface around the mouth, by virtue of the slurping qualities inbuilt, has a high probability of sucking such an entire portion. </p>
+
+<p style="text-align: justify">The above analysis indicates that mouth offers least resistance to the incoming particle which may enhance the slurping capacity, in effect meaning that the mouth can act as a high risk entry point to a Covid particle. If a further situation is envisaged wherein after splashing on a human face, remnants of Covids stick to the face, such particles can be removed by wiping the face with natural sanitizers, as otherwise, such sticked particles may eventually get slurped in. For this, positioning of Natural sanitizers in public places, to enable effective face-washing may be the answer. </p>   
+
+#### The emerging Covid transmission Hypothesis:
+
+<p style="text-align: justify">Wearing of mask, though offers a psychological cushion to a potential victim, by itself does not offer 100% insulation against a sneaking Covid particle,  say, in comparison to the near-total insulation offered by a plastic vizor shield, which acts as a physical barrier.</p>
+
+<p style="text-align: justify">Let us examine a situation of a person not wearing either a mask nor a vizor and exposing to an on-coming cloud of Covid particles. In turn, the face exposes the three entry points- the eyes, the nostrils and the mouth to the grave risk of absorbing the Covid particle. The eyes, due to the inherent function of flapping of the eye-lids, bisects the incoming covid cloud into two- with half of the potential particles gaining entry and the other half being shut out, due to flapping.</p> 
+
+<p style="text-align: justify">The nostrils has a split function- breathe-in and breathe-out, alternatively. This split function again bisects the approaching Covid cloud into two parts- one part gaining entry into the inner nostrils, and the other part being thwarted, due to the gush of air emitted. Further, the Covid cloud has to first essay a near-downward motion and then approach the entrance to the nostrils, so as to be inhaled on to the membrane, which involves defying the law of gravity. It is to be observed here that the concept of ‘negative’ probability, a theory developed by (late) Prof. ECG Sudarshan, a theoretical physicist plays a role at this juncture. Cumulatively speaking, the lifeless Covid particle has to make a downward dive and then await suction by the thwarting nostrils, to access the nasal membrane.  As argued, there is a strong possibility of occurrence of this event with negative probability, thereby suggesting that such an event may not occur at all.</p>
+
+<p style="text-align: justify">On the contrary, the mouth, with its vast Oral cavity, affords a easier access to the Covid particle with very less resistance. An open mouth comes directly in line with a Covid cloud, offering very little or Nil resistance, probabilistically speaking. The Covid entry is facilitated by the path of least resistance into the mouth.</p>
+
+<p style="text-align: justify">The above discussion lead to a strong hypothetical conclusion that the probability of the mouth affording entry of an on-coming Covid particle ranges between 0.3 to 0.9 ( the minimum probability point of 0.3 being fixed by default and the maximum probability point 0.9 fixed on the basis of the arguments advanced above, and even leaving  a probability point of 0.1 to residual factors).</p>  
+ 
+##### Equations would appear here
+
+<p style="text-align: justify">As per the theory advanced above, it is to be concluded that the entry of a Covid particle into a human physiological system through the mouth occurs with a minimum chance of 30% and a maximum chance of 90%. Conversely, it can be held that if a mouth is shut, the chances of preventing a Covid particle entry lies anywhere between 30% and 90%.</p>
+
+<p style="text-align: justify">Most quantum of the transmission of this novel Covid Virus has been found happening in public places, places with crowding people, and congested unventilated places. As per the discussion and findings made above, it can be safely concluded that if a person moving around in a public place or a place with crowding people, keeps his mouth closed as much as possible, the chances of his avoiding getting infected by a Covid cloud ranges between atleast 30% and upto 90%, depending upon for how long the person is able to close his mouth.</p>  
+
+#### Ramifications of the findings:
 #### References and Sources:
 1. The Kalash people, Wikipedia.
 2. A History of Kodagu (From the earliest times to 16 th century A.D) by Prof. P.S.Appaiah.
