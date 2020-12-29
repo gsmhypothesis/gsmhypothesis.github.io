@@ -9,63 +9,15 @@ title: The GSM Hypothesis
 
 <p style="text-align: justify">Hence the Virus Pandemic and its spread needs to be understood in the broader sense, viz.a.viz, its origin and its growth and spread.</p>
 
-<p style="text-align: justify">There is a tribe called Kalash in the Chitral region of Kybher-pakhtunkhwa province of
-Pakistan. They are from the dardic family of Indo-Aryans. The Kalash are considered to
-be pakistan’s smallest ethno-religious groups practicing a religion classified as an ancient
-form of Hinduism. They are considered unique among the people of Pakistan. The
-related ethnic groups are Nuristanis and other Indo-Aryan peoples. The Kalash are
-considered to be indigenous people of Asia, with their ancestors migrating to Chitral
-valley from a location which was possibly further south, which the kalash call ‘Tsiyam’ in
-their Folk songs. The languages spoken by these people are kalash, chitrali and urdu. The
-Kalash are migrants or refugees, and they are also considered to be descendants of
-Gandharis. The Kalash have maintained their own unique customs and traditions. The
-culture and traditions of Kalash is stunningly unique, in comparison with the
-contemporary Islamic traditions and practices surrounding them in the chitral valley. The
-kalash have aggressively preserved these traditions. They are polytheists and nature
-plays a highly significant and spiritual role in their daily lives. The kalash tribals offer
-sacrifices and hold festivals to thank nature for the abundant resources of the three
-valleys (Kalasha Desh). The Kalasha mythology and folklore though have been compared
-to ancient Greece, has been found closer to Hindu traditions of the Indian sub-continent.
-The Kalash are basically mountain people, celebrating three main festivals- one in may
-(chilam joshi), another in autumn (Uchau), and another (caumus) in mid-winter. The
-most important Kalash festival is the Chowmos ( caumus), which is celebrated during
-December (chaturmasya), which marks the end of the year’s field work and harvest. The
-main Chowmus ritual takes place at a Tok tree, which is denoted as Indra’s place-
-‘Indrunkot’ or ‘Indreyin’. Horses, goats, cows and sheep were sacrificed. The traditional
-Kalash religious practices is considered to display traits of myths, ritual, society which
-echoes many aspects of Rig-vedic religion, including pre-vedic practices and beliefs,
-regarded as a form of ancient Hinduism. Mahandeo is a deity to whom the Kalash pray
-to (Mahadev, as is known in another parts of the Indian sub-continent). The creator
-deity Imra (Yama Rajan) is called Dezau (Dezaw) whose name is derived from Indo-
-European dheigh. Dezauhe is also referred to by the Pashto term Khodai. Tsyam is
-considered as the mythological homeland of the Kalash. Crows represent the ancestors,
-and the Kalash feed them by their left hand, as in Vedic practice. The dead are buried
-above ground in ornamented wooden coffins. The Kalashi traditional music includes
-flute-like instruments (high-pitch), singing, poetry, clapping, and also the rhythmic
-playing of drums- Wac ( a small hourglass drum) and Dau ( a large drum played with the
-smaller drum Wac).</p>
+#### How did the virus come about?
 
-![Figure 1]({{ site.baseurl }}/images/post_1_fig_1.jpg)
+<p style="text-align: justify">There has been much speculation that the Virus has had its origin at the Wuhan Institute of Virology, China (Source for Virus origin in Wuhan – “Detection of Covid-19 in Children in Early January 2020 in Wuhan, China”). Other theories like the spread of this Virus from the nearby ‘Bat Hills’ of Wuhan and its proximity to Villages are not valid for the simple reason that ‘Bat Havens’ are found everywhere on the Globe. Additionally, there were no such trace of this Virus originating from the other such Bat ‘Hot Spots’. Hence the theory floated by the Chinese that the origin of this parasite is from the Animal Market of Wuhan and not Wuhan is likely untenable.</p>
 
-<p style="text-align: justify"><strong>Genetic Origins of the Kalash</strong> : West Eurasian origins have been genetically detected in a
-study on the kalash. The Kalash are also detected to have distinct aboriginal links with
-only minor contributions from outside people. Another study showed them to be
-clustered with central/ south Asian populations. Interestingly, another study found no
-evidence of their descent from soldiers of Alexander. A further study revealed the Kalash
-are part of the South Asian genetic continuum with no Macedonian ethnic admixture
-albeit shifted towards the Iranian people.</p>
+<p style="text-align: justify">:The changing genome sequence of this Virus indicates that the strong probability of Virus being man-made and hence contrived in the Wuhan Institute of Virology. This is still strongly disputed in the scientific community, however. The factual pointers in this directions can be related to the eclipsing of the Virologist Dr.Shi by the Chinese Establishment. </p>
 
-<p style="text-align: justify">Historically, the Kalash are stated to be an indigenous people of Asia, with their
-ancestors migrating to Afghanistan from a distant place in South Asia, which the kalash
-call ‘Tsiyam’ in their folk songs and epics. Kalashi traditions record severe persecution
-and massacres in the hands of Rais dynasty’s Shah Nader Rais between 1720 to 1747,
-after which the Kalash had to flee the Chitral valley, and those who remained still
-practising their faith had to pay tribute in kind or with Corvee labour.</p>
+<p style="text-align: justify">The WIV lab, along with researchers in the U.S. and Switzerland, showed in 2015 the scary-good capability of bat coronaviruses to thrive in human cells. In that paper, which was published in 2015 in the journal Nature Medicine, they described how they had created a chimeric SARS-like virus out of the surface spike protein of a coronavirus found in horseshoe bats, called SHC014, and the backbone of a SARS virus that could be grown in mice.</p>
 
-<p style="text-align: justify">The Kodavas are an exclusive ethnic mountain people, practising an exclusive form of
-religion and traditions which can be strongly linked to a kind of <em>ancient Hinduist</em> practice.
-Among the various theories floating about the history and racial origins of the Kodavas,
-the theory of descent from Alexander’s battalion is so far the strongest.</p>
+<p style="text-align: justify"In 2018, after scientist diplomats from the U.S. embassy in Beijing visited the WIV, they were so concerned by the lack of safety and management at the lab that the diplomats sent two official warnings back to the U.S. (Source: https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html).</p>
 
 <p style="text-align: justify"><strong>Religious, cultural practices and traditions of the Kodavas</strong> : The Kodavas are a hunting,
 mountain seeking martial race with nomadic antecedents. The Kodava traditional music
