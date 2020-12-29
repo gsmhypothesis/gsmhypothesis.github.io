@@ -21,20 +21,16 @@ title: The GSM Hypothesis
 
 <p style="text-align: justify">In this ghastly background of the enlarging and deepening tentacles of this pandemic, it is pertinent to mention the following speculative points : </p>
 
-<p style="text-align: justify"><strong>Theory of Kodavas’ descent from Alexander’s battalion negated</strong>: For a racial ethnic
-group to separate itself from a war battalion and migrate out compactly as a
-reproducing group, the descent from Alexander’s battalion theory is highly flawed. A
-detached group from a multi-racial battalion to later re-evolve itself as a compact ethnic
-group displaying ancient hinduist practices becomes a remote possibility. Such ethnised
-group should have identical ethnic elements with familial similarity to survive and
-flourish as a uniform and identical intra-ethnic group. In the absence of identifying the
-methodology of absorption of the strong ethnic and cultural identity as exhibited by the
-Kodavas, the ‘Alexander Battalion’ theory fails. Empirically, the possibility of evolvement
-of an ethnic group from a battalion consisting of mixed-race soldiers grouping together
-as a clan, and stretching backwards and imbibing ancient form of vedic practices and
-unique cultural symptoms defies the concept of group survival. A grown-up
-heterogeneous group of soldiers, with their kin, cannot all of a sudden imbibe alien preancient practices. Only an exclusive pre-existing ethnic group can absorb and practise
-<em>stiff</em> ancient version of Hinduist/vedic ideals, passing it down the generations.</p>
+<ul>
+  <l>The almost certain fact that the Virus originated from WIV indicates that Dr. Shi was very involved in the contrivation  of this particle. Dr.Shi is not available to us to reveal the exact intention and nature of this particle.</l>
+  <l>There is every possibility that the creation of this Virus was part of a Biological Warfare program charted out by CPC/PLA with the intention of erasing a ‘target population’, when let loose. The ways and means of ‘letting loose’ a load of this Virus is debatable.</l>
+  <l>The WIV would have also thought of a vaccine, for this virus, as the creator of this parasite.</l>
+  <l>The WIV would have also thought of control measures of this Virus, in the event of an unlikely outbreak of this Virus, from its Lab.</l>
+  
+  
+</ul>
+
+<p style="text-align: justify">It is the fundamental job of the WHO to study the nature and origin of this so-called Virus and al suggest ways to the Global community of Humans and animals on the measures to counter it and its spread. In the absence of the WHO failing in its duties, the humans across the Globe are now facing this pandemic from the past six months, without a clue of an instant medicinal solution. </p>
 
 <p style="text-align: justify">The genetic inquest on the kalash tribe- regarded as Alexander’s descendants all along,
 has too negated the hazy Alexander descent hypothesis weaved around the Kalash.</p>
