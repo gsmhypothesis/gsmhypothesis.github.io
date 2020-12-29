@@ -17,31 +17,9 @@ title: The GSM Hypothesis
 
 <p style="text-align: justify">The WIV lab, along with researchers in the U.S. and Switzerland, showed in 2015 the scary-good capability of bat coronaviruses to thrive in human cells. In that paper, which was published in 2015 in the journal Nature Medicine, they described how they had created a chimeric SARS-like virus out of the surface spike protein of a coronavirus found in horseshoe bats, called SHC014, and the backbone of a SARS virus that could be grown in mice.</p>
 
-<p style="text-align: justify"In 2018, after scientist diplomats from the U.S. embassy in Beijing visited the WIV, they were so concerned by the lack of safety and management at the lab that the diplomats sent two official warnings back to the U.S. (Source: https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html).</p>
+<p style="text-align: justify">In 2018, after scientist diplomats from the U.S. embassy in Beijing visited the WIV, they were so concerned by the lack of safety and management at the lab that the diplomats sent two official warnings back to the U.S. (<a href="https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html">Source</a>).</p>
 
-<p style="text-align: justify"><strong>Religious, cultural practices and traditions of the Kodavas</strong> : The Kodavas are a hunting,
-mountain seeking martial race with nomadic antecedents. The Kodava traditional music
-includes drums, trumphets, pipes, singing, poetry and clapping. Their tradition also
-includes folk-lores, folk-dances and folk-songs. From earliest days, the kodavas are
-known to worship Nature and Ancestors. Historically, the Kodavas are worshippers of
-Sun. Apparently this trait of worshipping Sun and nature has been handed over since
-ancient days. Their worshipping place ‘Kaimada’ which is linked to ceremonial rituals in
-honour of ancestors, the positioning of the ‘Kaimada’ within the sight of the Sun and
-Moon, displays ancient vedic tinge . The ‘Kaimada’ and the ‘Ain Mane’ were built facing
-the east, towards the rising Sun. The erection of a bamboo pole- ‘Kodimara’ in front of
-the ‘Kaimada’ was meant to indicate the nature of the occasion. Their worshipping the
-river Kaveri as their Goddess, with special prayers offered on ‘Kaveri Sankramana’ day in
-clearly indicates Aryan origins, in concept. While facing the rising sun in the morning, in
-salutation, an auspicious rite is enacted involving rice and milk. The Kodavas offer fowls
-to the Spirit ‘Kuliya’ inside the forests through ‘Devara kaadu- an act of appeasing the
-nature through the ancestors. The propitiation of ancestors once a year through
-‘Kaarana Bharani’. The ‘Nellakki Bolucha’ meaning the lighting of the ceremonial oil
-lamp- both in the morning and evening is an age-old practice of ancestor worship. The
-Kodavas observe three most important festivals- Kailpodh or Kailmuhurtha (September),
-Kaveri Sankramana (October) and Puthri or Huthri (November-December). The kailpodh
-is a festival indicating the end of ploughing and transplanting sessions of the paddy crop.
-The Huthri festival heralds the ripening of the paddy crop. The utterance “Poly Poly
-Deva” during this festival is considered as deeply ancient in origins.</p>
+<p style="text-align: justify">In this ghastly background of the enlarging and deepening tentacles of this pandemic, it is pertinent to mention the following speculative points : </p>
 
 <p style="text-align: justify"><strong>Theory of Kodavas’ descent from Alexander’s battalion negated</strong>: For a racial ethnic
 group to separate itself from a war battalion and migrate out compactly as a
