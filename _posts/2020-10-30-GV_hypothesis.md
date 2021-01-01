@@ -113,7 +113,7 @@ Thus the ‘mantra’ of effectively closing the mouth while in public places is
 <p style="text-align: justify">We propose a multiple regression model for the probability of testing positive for COVID-19 under various conditions. Here we list the factors we considered in modeling the problem:</p>
 
 <ul>
-  <li> Use of mask to cover the face (\\(x_{mask}\\)).</li>
+  <li> Use of mask to cover the face ($x_{mask}$).</li>
 </ul>
 
 #### Ramifications of the findings:
