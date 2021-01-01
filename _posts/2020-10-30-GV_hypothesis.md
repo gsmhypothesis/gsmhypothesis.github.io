@@ -110,7 +110,6 @@ Thus the ‘mantra’ of effectively closing the mouth while in public places is
 
 <p style="text-align: justify">The above discussion lead to a strong hypothetical conclusion that the probability of the mouth affording entry of an on-coming Covid particle ranges between 0.3 to 0.9 ( the minimum probability point of 0.3 being fixed by default and the maximum probability point 0.9 fixed on the basis of the arguments advanced above, and even leaving  a probability point of 0.1 to residual factors).</p>  
 
-<p style="text-align: justify">We propose a multiple regression model for the probability of testing positive for COVID-19 under various conditions. Here we list the factors we considered in modeling the problem:</p>
 
 ![ ]({{ site.baseurl }}/images/dad-1.png)
 
