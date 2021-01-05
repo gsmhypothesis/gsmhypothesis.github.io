@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Ganesh Venkataraman ([mail](mailto:ganeshrevathi5@gmail.com))
-<img src="{{ site.baseurl }}/images/ganesh_2.jpg" width="300" align="right />
+<img src="{{ site.baseurl }}/images/ganesh_2.jpg" width="300">
 
 
 1. Ganesh Venkataraman is an Indian Revenue Service Officer working with the Income-Tax
