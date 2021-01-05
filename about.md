@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Ganesh Venkataraman ([mail](mailto:ganeshrevathi5@gmail.com))
-<img src="{{ site.baseurl }}/images/ganesh_2.jpg" width="300" />
+<img src="{{ site.baseurl }}/images/ganesh_2.jpg" width="300" align="right/>
 
 
 1. Ganesh Venkataraman is an Indian Revenue Service Officer working with the Income-Tax
@@ -20,4 +20,4 @@ Motorcycle Diaries’.
 probability theory- a posthumous dissection of thoughts of three great personalities.
 5. Ganesh Venkataraman is also a Bike enthusiast.
 
-## Murali G Sethuraman
+## Murali G Sethuraman ([mail](mailto:muralikgs@gatech.edu))
