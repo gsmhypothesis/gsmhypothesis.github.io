@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Figure 1]({{ site.baseurl }}/images/ganesh_2.jpg)
+## Ganesh Venkataraman
+![Figure 1]({{ site.baseurl }}/images/ganesh_2.jpg =x150)
 
 1. Ganesh Venkataraman is an Indian Revenue Service Officer working with the Income-Tax
 Department and is based in the city of Bengaluru.
